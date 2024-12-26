@@ -1,0 +1,11 @@
+{
+    "prefix": "-",
+    "token": null,
+    "clientID": "",
+    "youtubeCookie": "",
+    "spotify_api": {
+        "enabled": true,
+        "clientId": "b1bff0cbea99474fa9fa0f5ad0129e66",
+        "clientSecret": "dd6924660b93476d911a37a05d19f4ff"
+    }
+}
